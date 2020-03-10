@@ -16,7 +16,7 @@ import java.io.IOException;
 @RequestMapping(value = "/sms")
 public class SmsController {
     @RequestMapping(value = "/sendCode", method = RequestMethod.POST)
-    public void sms(@RequestBody Sms sms){
+    public void sendCode(@RequestBody Sms sms){
         int appid = 1000000003;
         String appkey = "e*****************************71";
         int templateId = 123456; //模板ID

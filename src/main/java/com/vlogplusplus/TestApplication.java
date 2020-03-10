@@ -1,11 +1,11 @@
-package com.example.test;
+package com.vlogplusplus;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.example.test.dao")
+@MapperScan("com.vlogplusplus.dao")
 public class TestApplication {
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package com.example.test.controller;
+package com.vlogplusplus.controller;
 
-import com.example.test.entity.Sms;
+import com.vlogplusplus.entity.Sms;
 import com.github.qcloudsms.SmsSingleSender;
 import com.github.qcloudsms.SmsSingleSenderResult;
 import com.github.qcloudsms.httpclient.HTTPException;

@@ -1,8 +1,8 @@
-package com.example.test.service.impl;
+package com.vlogplusplus.service.impl;
 
-import com.example.test.dao.ILoginDao;
-import com.example.test.entity.Login;
-import com.example.test.service.ILoginService;
+import com.vlogplusplus.dao.ILoginDao;
+import com.vlogplusplus.entity.Login;
+import com.vlogplusplus.service.ILoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

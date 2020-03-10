@@ -1,6 +1,6 @@
-package com.example.test.dao;
+package com.vlogplusplus.dao;
 
-import com.example.test.entity.Login;
+import com.vlogplusplus.entity.Login;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
 

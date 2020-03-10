@@ -1,4 +1,4 @@
-package com.example.test.entity;
+package com.vlogplusplus.entity;
 
 import java.util.Date;
 

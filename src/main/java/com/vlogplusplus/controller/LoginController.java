@@ -1,7 +1,7 @@
-package com.example.test.controller;
+package com.vlogplusplus.controller;
 
-import com.example.test.entity.Login;
-import com.example.test.service.ILoginService;
+import com.vlogplusplus.entity.Login;
+import com.vlogplusplus.service.ILoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

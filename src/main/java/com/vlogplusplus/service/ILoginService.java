@@ -1,6 +1,6 @@
-package com.example.test.service;
+package com.vlogplusplus.service;
 
-import com.example.test.entity.Login;
+import com.vlogplusplus.entity.Login;
 
 public interface ILoginService {
     Login login(String username, String password);

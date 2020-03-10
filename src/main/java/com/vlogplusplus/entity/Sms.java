@@ -1,4 +1,4 @@
-package com.example.test.entity;
+package com.vlogplusplus.entity;
 
 public class Sms {
     String phoneNumber;

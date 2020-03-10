@@ -4,6 +4,7 @@ Java后端springboot利用腾讯云的短信服务器来发送短信验证码
 pom.xml中已经添加了qcloudsms依赖项
 短信服务器的实体类是entity中的Sms
 发送短信的控制器是SmsController.java
+请修改里面的几个参数，使用自己注册的腾讯云短信服务发送短信，demo中的参数是无法使用的！
 
 注意：这个springboot项目是在myFavorite后端项目的基础上做的，所以如果你没有myFavorite数据库，可能无法运行这个代码。
 启动前请先检查resources下的application.yml中的数据库配置文件
